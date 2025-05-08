@@ -1,3 +1,6 @@
-body {
+h2 {
     color: red; 
+}
+p {
+    color:color-mix(in hwb longer hue, color percentage, color percentage)
 }
